@@ -1,0 +1,15 @@
+[
+{
+	"country":"Antalya",
+	"temperature":"23",
+	"week":{
+		"pazartesi":"25",
+		"salı":"30",
+		"çarşamba":"27",
+		"perşembe":"35",
+		"cuma":"25",
+		"cumartesi":"28",
+		"pazar":"23"
+	}
+}
+]
